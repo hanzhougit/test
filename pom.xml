@@ -17,7 +17,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>helloqwwqw</finalName>
+		<finalName>aahelloqwwqw</finalName>
 		<plugins>
 			<plugin>
 				<configuration>
