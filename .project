@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>hello</name>
+=======
+	<name>hello-world</name>
+>>>>>>> 0d769df547e929e6b37660547aa1e3435a16f2b2
 	<comment></comment>
 	<projects>
 	</projects>
