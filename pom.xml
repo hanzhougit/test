@@ -17,7 +17,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>hello</finalName>
+		<finalName>hello33</finalName>
 		<plugins>
 			<plugin>
 				<configuration>
